@@ -1,0 +1,6 @@
+django==2.2
+gunicorn
+django-heroku
+djangorestframework
+markdown
+django-filter
